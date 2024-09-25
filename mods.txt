@@ -1,0 +1,153 @@
+
+[Mod list length: 150]
+- Harmony
+- Core
+- Royalty [Official DLC]
+- Ideology [Official DLC]
+- Biotech [Official DLC]
+- Anomaly [Official DLC]
+- HugsLib
+- Allow Tool
+- Vanilla Expanded Framework
+- Vanilla Factions Expanded - Insectoids 2
+- Vanilla Weapons Expanded
+- Vanilla Weapons Expanded - Laser
+- Vanilla Factions Expanded - Pirates
+- Vanilla Factions Expanded - Settlers
+- Vanilla Weapons Expanded - Coilguns
+- Vanilla Weapons Expanded - Heavy Weapons
+- Vanilla Weapons Expanded - Quickdraw
+- Vanilla Weapons Expanded - Frontier
+- Vanilla Races Expanded - Insector
+- Alpha Genes
+- Vanilla Factions Expanded - Classical
+- Vanilla Factions Expanded - Mechanoids
+- Vanilla Psycasts Expanded
+- Alpha Mechs
+- Vanilla Ideology Expanded - Memes and Structures
+- Alpha Memes
+- Alpha Prefabs
+- Amnabi's Flags (Continued)
+- Ancient amorphous threat
+- Anomalies Expected
+- Anomalies Expected Addon
+- Anomaly Portal
+- ArchoGacha
+- VFE Insectoids Equipment
+- Vanilla Furniture Expanded
+- Vanilla Furniture Expanded - Security
+- Dubs Bad Hygiene
+- Vehicle Framework
+- Vanilla Vehicles Expanded
+- Vanilla Vehicles Expanded - Tier 3
+- Save Our Ship 2
+- XML Extensions
+- [FSF] Advanced Bionics Expansion
+- More Archotech Garbage (Continued)
+- Archotech Weaponry (Continued)
+- Better Explosions
+- Bionic icons
+- Bread Mo's Valentine's Day apparel
+- Buildable Void metal Wall
+- Character Editor
+- Compact Hediffs
+- Designator Shapes
+- Dubs Central Heating
+- Dubs Mint Menus
+- Dubs Rimatomics
+- Edge of Descension - Stuncaster 2.0
+- EndlessGrowth
+- Engine Industries
+- Erin's Hairstyles - Redux
+- Erin's Hairstyles 2
+- FPSStabilizer
+- Gene Banks Expanded
+- Athena Framework
+- Glitter Weaponry
+- Go Explore!
+- Graphics Settings+
+- Green(screen) Floor
+- Grimoires
+- Hell Bionics
+- Improved Void touched
+- Integrated Implants
+- Integrated Implants Russian Language
+- Kraltech Industries
+- Melee Animation
+- Metalhorrors Unleashed
+- Vanilla Factions Expanded - Empire
+- Vanilla Textures Expanded
+- More Vanilla Textures
+- Muzzle Flash
+- Name Your Entities
+- New Anomaly Threats
+- Nice Health Tab
+- Onimods - Column Light
+- Phase Weaponry
+- Portraits of the Rim
+- Power Tab
+- Ragdoll Physics
+- Reel's Insector Faction
+- RetouchableVoid
+- RimCities
+- RimFridge: Now with Shelves!
+- RimHUD
+- RimPy Mod Manager Database
+- RimSaves
+- Rimefeller
+- Search and Destroy (Unofficial Update)
+- SimpleCameraSetting
+- Smarter Construction
+- Smarter Visitors
+- Spacer Arsenal
+- Un-Limited Reborn
+- Ushankas Biological Warfare
+- Utility Columns
+- VVE - Deconstructable Vehicles Junk
+- Vanilla Animals Expanded
+- Vanilla Animals Expanded — Endangered
+- Vanilla Animals Expanded — Royal Animals
+- Vanilla Animals Expanded — Waste Animals
+- Vanilla Apparel Expanded
+- Vanilla Apparel Expanded — Accessories
+- Vanilla Armour Expanded
+- Vanilla Base Generation Expanded
+- Vanilla Chemfuel Expanded
+- Vanilla Factions Expanded - Ancients
+- Vanilla Hair Expanded
+- Vanilla Nutrient Paste Expanded
+- Vanilla Persona Weapons Expanded
+- Vanilla Plants Expanded
+- Vanilla Plants Expanded - More Plants
+- Vanilla Plants Expanded - Mushrooms
+- Vanilla Plants Expanded - Succulents
+- Vanilla Psycasts Expanded - Hemosage
+- Vanilla Psycasts Expanded - Puppeteer
+- Vanilla Psycasts Expanded Russian Language Pack
+- Vanilla Races Expanded - Archon
+- Vanilla Races Expanded - Custom Icons
+- Vanilla Races Expanded - Fungoid
+- Vanilla Races Expanded - Genie
+- Vanilla Races Expanded - Hussar
+- Vanilla Races Expanded - Lycanthrope
+- Vanilla Races Expanded - Phytokin
+- Vanilla Races Expanded - Pigskin
+- Vanilla Races Expanded - Sanguophage
+- Vanilla Races Expanded - Saurid
+- Vanilla Races Expanded - Waster
+- Vanilla Textures Expanded - Save Our Ship 2
+- Vanilla Vehicles Expanded - Upgrades
+- Vanilla Weapons Expanded - Bioferrite
+- Vanilla Weapons Expanded - Grenades
+- Vanilla Weapons Expanded - Makeshift
+- Vanilla Weapons Expanded - Non-Lethal
+- Vanilla Weapons Expanded - Tribal
+- Vehicles - Skyranger
+- Visible Entity Capacities
+- Visit Settlements
+- Yayo's Animation (Continued)
+- [AV] Mechanoid orbital traders
+- [RH2] DOOM
+- [RH2] Faction: V.O.I.D.
+- RimJobWorld
+
