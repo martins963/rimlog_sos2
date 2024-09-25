@@ -1,0 +1,15 @@
+Root level exception in Update(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref E9A77E83]
+ at RimWorld.Pawn_RelationsTracker.TryRemoveDirectRelation (RimWorld.PawnRelationDef def, Verse.Pawn otherPawn) [0x000f1] in <f0ac5eb9b52e4cc396c70fc9a4ee15e5>:0 
+ at RimWorld.Pawn_RelationsTracker.RemoveDirectRelation (RimWorld.PawnRelationDef def, Verse.Pawn otherPawn) [0x00000] in <f0ac5eb9b52e4cc396c70fc9a4ee15e5>:0 
+ at RimWorld.Pawn_RelationsTracker.RemoveDirectRelation (RimWorld.DirectPawnRelation relation) [0x00000] in <f0ac5eb9b52e4cc396c70fc9a4ee15e5>:0 
+ at SaveOurShip2.ShipInteriorMod2.SaveShip (SaveOurShip2.Building_ShipBridge core, System.String file) [0x006b8] in <2df847f03d034e0fa0612e7c7e88a026>:0 
+ at SaveOurShip2.ShipInteriorMod2.SaveShipToFile (SaveOurShip2.Building_ShipBridge core) [0x00155] in <2df847f03d034e0fa0612e7c7e88a026>:0 
+ at SaveOurShip2.LaunchShipToSpace.Prefix () [0x0000b] in <2df847f03d034e0fa0612e7c7e88a026>:0 
+ at RimWorld.ShipCountdown.CountdownEnded () [0x00011] in <f0ac5eb9b52e4cc396c70fc9a4ee15e5>:0 
+     - PREFIX ShipInteriorMod2: Boolean SaveOurShip2.LaunchShipToSpace:Prefix()
+ at RimWorld.ShipCountdown.ShipCountdownUpdate () [0x00028] in <f0ac5eb9b52e4cc396c70fc9a4ee15e5>:0 
+ at Verse.Root_Play.Update () [0x00017] in <f0ac5eb9b52e4cc396c70fc9a4ee15e5>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.Root_Play:Update ()
